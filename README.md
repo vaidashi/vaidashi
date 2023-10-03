@@ -6,10 +6,10 @@
 ### <div align="center">I'm Ash, a full-time full-stack developer 👨‍💻 .</div>  
   
 
-- I'm currently working with Angular and NestJS  
+- I'm currently working as a full stack developer. 
   
 
-- I’m also pursuing a master's in data science part-time online  
+- I’m also pursuing a master's in data science through a part-time online program at Northwestern University.
   
 
 <br/>  
@@ -27,6 +27,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original.svg" alt="React" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
