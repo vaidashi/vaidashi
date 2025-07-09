@@ -3,13 +3,9 @@
 </div>  
   
 
-### <div align="center">I'm Ash, a full-time full-stack developer 👨‍💻 .</div>  
+### <div align="center">I'm Ash, a full-stack developer 👨‍💻 .</div>  
   
 
-- I'm currently working as a full stack developer. 
-  
-
-- I recently completed a masters in data science through a part-time online program at Northwestern University.
   
 
 <br/>  
